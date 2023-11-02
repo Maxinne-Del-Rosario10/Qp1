@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #cbcbcb;
+    padding: 2vh;
+}
+.logo{
+    background-image: url(Pshs\ logo.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+}
+.homelogo{}
+.navbar a{
+    text-decoration: none;
+    color: #46697d;
+    font-weight: 900;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.logo img{
+    width: 30px;
+}
